@@ -1,0 +1,19 @@
+{
+  "name": "my-first-calculator",
+  "version": "1.0.0",
+  "description": "Can calculate the sum, difference, product and quotient of any two double-digit integers.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Benjamin Swart",
+  "license": "MIT"
+}
