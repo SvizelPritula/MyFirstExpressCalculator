@@ -4,7 +4,7 @@
   "description": "Can calculate the sum, difference, product and quotient of any two double-digit integers.",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.20.0"
+    "express": "^4.21.0"
   },
   "devDependencies": {},
   "scripts": {
